@@ -1,1 +1,1 @@
-# B-Tech_Final_Project
+Its a team project. Sysmocart is a web based application intended for online retailers. It makes searching, viewing and selection of a product easier for user's specific to their needs. The application also has Add to Cart feature. And many more features just like all the shopping application have. Where I had the role of a tester.
